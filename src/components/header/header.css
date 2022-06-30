@@ -40,8 +40,8 @@ header {
 
 .me {
     background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
-    height: 30rem;
+    width: 33rem;
+    height: 40rem;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
@@ -63,7 +63,7 @@ header {
 
 @media screen and (max-width:1024px) {
     header {
-        height: 68vh;
+        height: 100vh;
     }
 }
 
